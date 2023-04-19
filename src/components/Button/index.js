@@ -14,4 +14,5 @@ const Button = ({ title }) => {
       </TouchableOpacity>
   )
 }
+
 export default Button;
