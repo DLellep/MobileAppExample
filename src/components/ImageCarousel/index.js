@@ -1,4 +1,4 @@
-mport React, { useState } from "react";
+import React, { useState } from "react";
 import { FlatList, Image, View, Dimensions } from "react-native";
 
 import { styles } from "./styles";
